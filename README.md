@@ -1,2 +1,4 @@
 # timesqure.github.io
-It's timesqure!
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
